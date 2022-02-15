@@ -1,0 +1,19 @@
+{
+    "name": "subhh/module-installer-plugin",
+    "description": "Install Module packages in the modules directory",
+    "require": {
+      "composer-plugin-api": "^2.2.0"
+    },
+    "require-dev": {
+      "composer/composer": "^2"
+    },
+    "type": "composer-plugin",
+    "autoload": {
+      "psr-0": {
+        "Installer\\Composer": "src/"
+      }
+    },
+    "extra": {
+      "class": "Installer\\Composer\\ModuleInstallerPlugin"
+    }
+}
