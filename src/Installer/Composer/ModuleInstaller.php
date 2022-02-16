@@ -24,5 +24,3 @@ class ModuleInstaller extends LibraryInstaller
         return 'qcovery-module' === $packageType;
     }
 }
-© 2022 GitHub, Inc.
-Terms
