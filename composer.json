@@ -1,5 +1,5 @@
 {
-    "name": "subhh/module-installer-plugin",
+    "name": "hajoseng/module-installer-plugin",
     "description": "Install Module packages in the modules directory",
     "require": {
       "composer-plugin-api": "^2.2.0"
