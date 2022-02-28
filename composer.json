@@ -9,7 +9,7 @@
     },
     "type": "composer-plugin",
     "autoload": {
-      "psr-0": {
+      "psr-4": {
         "Installer\\Composer\\": "src/"
       }
     },
