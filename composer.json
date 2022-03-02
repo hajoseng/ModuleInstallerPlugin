@@ -8,12 +8,4 @@
       "composer/composer": "^2"
     },
     "type": "composer-plugin",
-    "autoload": {
-      "psr-0": {
-        "Hajoseng\\Composer\\": "src/"
-      }
-    },
-    "extra": {
-      "class": "Hajoseng\\Composer\\ModuleInstallerPlugin"
-    }
 }
