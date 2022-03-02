@@ -7,5 +7,5 @@
     "require-dev": {
       "composer/composer": "^2"
     },
-    "type": "composer-plugin",
+    "type": "composer-plugin"
 }
