@@ -10,10 +10,10 @@
     "type": "composer-plugin",
     "autoload": {
       "psr-0": {
-        "Installer\\Composer\\": "src/"
+        "Hajoseng\\Composer\\": "src/"
       }
     },
     "extra": {
-      "class": "Installer\\Composer\\ModuleInstallerPlugin"
+      "class": "Hajoseng\\Composer\\ModuleInstallerPlugin"
     }
 }

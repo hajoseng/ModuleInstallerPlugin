@@ -1,6 +1,6 @@
 <?php
 
-namespace Installer\Composer;
+namespace Hajoseng\Composer;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
