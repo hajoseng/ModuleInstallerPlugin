@@ -9,8 +9,8 @@
     },
     "type": "composer-plugin",
     "autoload": {
-      "psr-0": {
-        "Hajoseng\\Composer\\": "src/"
+      "psr-4": {
+        "": "src/"
       }
     },
     "extra": {
