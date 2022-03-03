@@ -9,14 +9,14 @@ class ModuleInstaller extends LibraryInstaller
 {
     public function getInstallPath(PackageInterface $package)
     {
-//        return '.';
-
+        return './';
+/*
         $extra = $package->getExtra();
         if (isset($extra['moduleName']) && $extra['moduleName'] != '') {
             return 'module/'.$extra['moduleName'];
         }
         return 'module';
-
+*/
     }
 
     public function supports($packageType)
