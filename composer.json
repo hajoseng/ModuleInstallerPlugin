@@ -9,8 +9,8 @@
     },
     "type": "composer-plugin",
     "autoload": {
-      "psr-4": {
-        "Hajoseng\\Composer\\": "hajoseng/module-installer-plugin/src/"
+      "psr-0": {
+        "Hajoseng\\Composer\\": "src/"
       }
     },
     "extra": {
